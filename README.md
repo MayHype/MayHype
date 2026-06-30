@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋 I'm Mayur</h1>
-<h3 align="center">🚀 Developer | UI/UX Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hey   Mayur Mahajan </h1>
+<h3 align="center"> AI/ML | UI/UX Designer | Tech Explorer</h3>
 
 <!-- 🎨 Custom Banner Matching Your Profile Pic -->
 <p align="center">
